@@ -1,6 +1,5 @@
 # NumPy
-[Numpy documentation v2.2](https://numpy.org/doc/stable/index.html/)
-
+[Numpy documentation v2.2](https://numpy.org/doc/stable/index.html)
 
 ### What is NumPy?
 - NumPt is the fundamental package for scientific computing in Python.
